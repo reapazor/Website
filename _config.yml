@@ -1,0 +1,34 @@
+# Base Settings
+title: The Forgotten Soul
+email: reapazor@gmail.com
+description: >-
+  Matthew 'Reapazor' Davey | Game Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://reapazor.com"
+
+# Custom Types
+collections:
+  projects:
+    output: true
+
+# Build Settings
+plugins:
+  - jekyll-feed
+
+sass:
+  # style: compressed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CNAME
+  - LICENSE
+  - README.md

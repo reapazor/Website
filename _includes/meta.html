@@ -1,0 +1,31 @@
+        <link rel="canonical" href="{{ page.url }}">
+        <link rel="dns-prefetch" href="//reapazor.com">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }} » Feed" href="{{ site.url }}/feed.xml">
+        <meta name="robots" content="max-image-preview:large">
+        <meta name="generator" content="GitHub Pages">
+        {% if page.type != "" %}
+        <meta property="og:type" content="{{ page.type }}">
+        {% else %}
+        <meta property="og:type" content="site">
+        {% endif %}
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:url" content="{{ page.url }}">
+        {% if page.description != "" %}
+        <meta property="og:description" content="{{ page.description }}">
+        {% else %}
+        <meta property="og:description" content="{{ site.description }}">
+        {% endif %}
+        <meta property="article:published_time" content="2020-08-19T17:47:06+00:00">
+        <meta property="article:modified_time" content="2024-01-16T14:56:52+00:00">
+        <meta property="og:site_name" content="{{ site.title }}">
+        <meta property="og:image" content="https://reapazor.files.wordpress.com/2016/10/adobestock_110397435.jpeg?w=1200">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="528">
+        <meta property="og:image:alt" content="">
+        <meta property="og:locale" content="en_US">
+        <meta property="article:publisher" content="{{ site.url }}">
+        <meta name="twitter:creator" content="@{{ site.data.twitter.username }}">
+        <meta name="twitter:site" content="@{{ site.data.twitter.username }}">
+        <meta name="twitter:text:title" content="{{ page.title }}">
+        <meta name="twitter:image" content="https://reapazor.files.wordpress.com/2016/10/adobestock_110397435.jpeg?w=640">
+        <meta name="twitter:card" content="summary_large_image">

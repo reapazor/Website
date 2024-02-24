@@ -1,0 +1,13 @@
+---
+layout: default
+title: Project Showcase
+permalink: /showcase/
+---
+
+{% for project in site.projects %}
+  <h2>
+    <a href="{{ project.url }}">
+      {{ project.title }} - {{ project.image }}
+    </a>
+  </h2>
+{% endfor %}
