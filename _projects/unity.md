@@ -1,8 +1,21 @@
 ---
 layout: project
 title: Unity
-image: something
+description: Make Unity Great Again
+tagline: Make Unity Great Again
 permalink: /showcase/unity/
+
+published-time: 2020-08-19T17:47:06+00:00
+last-modified: 2024-01-16T14:56:52+00:00
+
+feature-image: assets/images/projects/unity/unity-feature.jpg
+feature-width: 1200
+feature-height: 675
+
+showcase-video: https://www.youtube.com/watch?v=o35dfdO8WGQ
+showcase-background: assets/images/projects/unity/unity-kingdom.jpg
+
+header-image: assets/images/projects/unity/unity-kingdom.jpg
 ---
 
 ## Going Home
@@ -41,6 +54,7 @@ Our team has done some fantastic work; here are just **some of the things** I ha
 
 There are so many things that never shipped which I won’t get into, but you can only imagine the things that we have cooked up and all the things we could have done!
 
-![Unity Credits](/assets/images/2024/01/unity-edited.png)
+![Unity Credits](/assets/images/projects/unity/unity-credits.jpg)
+
 
 It’s too bad Unity stopped showing its credits.

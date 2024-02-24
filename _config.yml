@@ -1,10 +1,14 @@
 # Base Settings
 title: The Forgotten Soul
 email: reapazor@gmail.com
-description: >-
-  Matthew 'Reapazor' Davey | Game Developer
+description: "Matthew 'Reapazor' Davey | Game Developer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reapazor.com"
+
+# Defauts
+feature-image: assets/images/2024/01/unity-showcase.jpg
+feature-width: 1200
+feature-height: 675 
 
 # Custom Types
 collections:
