@@ -15,12 +15,12 @@ feature-height: 675
 showcase-video: https://www.youtube.com/watch?v=o35dfdO8WGQ
 showcase-background: assets/images/projects/unity/unity-kingdom.jpg
 
-header-image: assets/images/projects/unity/unity-kingdom.jpg
+hero-image: assets/images/projects/unity/unity-kingdom.jpg
 ---
 
 ## Going Home
 
-In 2019, I met [Ian Dundore]({{ site.data.linkedin.links.ian-dundore }}), a manager in Professional Services at Unity. I was working at inXile and needed to bring in some additional resources to help get [Wasteland 3]({{ site.url }}/showcase/wasteland-3/) across the finish line. I was on his radar; little did I know. This is where [Francisco Cruz]({{ site.data.linkedin.links.francisco-cruz }}), a friend and colleague from my time at OtherSide, enters the story. Since we crossed paths, Cisco had joined Unity’s M2/Gigaya team and had referred me to his team’s recruiter as a possible hire. Now I was in the system, and thus, Ian’s recruiter was able to strike.
+In 2019, I met [Ian Dundore]({{ site.data.linkedin.urls.ian-dundore }}), a manager in Professional Services at Unity. I was working at inXile and needed to bring in some additional resources to help get [Wasteland 3]({{ site.url }}/showcase/wasteland-3/) across the finish line. I was on his radar; little did I know. This is where [Francisco Cruz]({{ site.data.linkedin.urls.francisco-cruz }}), a friend and colleague from my time at OtherSide, enters the story. Since we crossed paths, Cisco had joined Unity’s M2/Gigaya team and had referred me to his team’s recruiter as a possible hire. Now I was in the system, and thus, Ian’s recruiter was able to strike.
 
 Unity had played such an integral part in my professional life up until that point; having the opportunity to get my foot in the door and work on the impossible task of “making a magical button that converts Unreal projects to Unity” was a pretty easy sell as 2020 was winding down.
 

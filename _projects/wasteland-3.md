@@ -16,7 +16,7 @@ feature-height: 661
 showcase-video: https://www.youtube.com/watch?v=b6EAhBLgSOs
 showcase-background: assets/images/projects/wasteland-3/wasteland-3-background.jpg
 
-header-image: assets/images/projects/wasteland-3/wasteland-3-feature.jpg
+hero-image: assets/images/projects/wasteland-3/wasteland-3-feature.jpg
 
 media-images:
  - assets/images/projects/wasteland-3/wasteland-3-00.jpg

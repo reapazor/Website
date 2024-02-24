@@ -13,7 +13,7 @@
         {% if page.feature-image != "" %}<meta property="og:image" content="{{ page.feature-image }}">{% else %}<meta property="og:image" content="{{ site.feature-image }}">{% endif %}
         {% if page.feature-width != "" %}<meta property="og:image:width" content="{{ page.feature-width }}">{% else %}<meta property="og:image:width" content="{{ site.feature-width }}">{% endif %}
         {% if page.feature-height != "" %}<meta property="og:image:height" content="{{ page.feature-height }}">{% else %}<meta property="og:image:height" content="{{ site.feature-height }}">{% endif %}
-        <meta property="og:image:alt" content="{{ page.title }} - {{ site.title }}">
+        {% if page.title != "" %}<meta property="og:image:alt" content="{{ page.title }} – {{ site.title }}">{% else %}<meta property="og:image:alt" content="{{ site.title }}">{% endif %}
         <meta property="og:locale" content="en_US">
         <meta property="article:publisher" content="{{ site.url }}">
         <meta name="twitter:creator" content="@{{ site.data.twitter.username }}">

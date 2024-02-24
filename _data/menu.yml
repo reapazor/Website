@@ -1,0 +1,9 @@
+main:
+    - text: About
+      url: /about/
+    - text: Blog
+      url: /blog/
+    - text: Work
+      url: /work/
+    - text: Contact
+      url: /contact/
