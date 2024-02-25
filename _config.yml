@@ -4,6 +4,7 @@ email: reapazor@gmail.com
 description: "Matthew 'Reapazor' Davey | Game Developer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reapazor.com"
+theme-override: forty
 
 # Defauts
 feature-image: assets/images/2024/01/unity-showcase.jpg
@@ -20,7 +21,7 @@ plugins:
   - jekyll-feed
 
 sass:
-  #style: compressed
+  style: compressed
 
 # pagination of posts
 paginate: 4

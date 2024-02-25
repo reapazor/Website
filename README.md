@@ -6,3 +6,8 @@ Jekyll-based personal website
 ```bash
 bundle exec jekyll serve
 ```
+
+### Update A Bundle
+```bash
+bundle update github-pages
+```
